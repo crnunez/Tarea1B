@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tarea3S</string>
+    <string name="txt_bienvenida">Bienvenida</string>
+    <string name="txt_entrar">Entrar</string>
+</resources>
